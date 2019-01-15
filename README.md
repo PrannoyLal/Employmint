@@ -1,6 +1,5 @@
 # Employmint
 
-
 Employmint is the mobile solution for teenagers seeking entry level employment. First place winner at AlphaHacks.
 
 Employmint is an online job network that is built for teenagers (14-18) in the GTA. It filters jobs by location, compensation and working hours and pulls from regional data to see available job postings.
@@ -10,10 +9,13 @@ The application was developed using Android Studio, Java, XML, Firebase Database
 Screenshots of the device flow are shown below: 
 
 1. App Launch Screen
+![alt text](https://raw.githubusercontent.com/ShreyasPrasad/Employmint/master/screenshots/applaunch.jpg)
 
 2. Sidebar View
+![alt text](https://raw.githubusercontent.com/ShreyasPrasad/Employmint/master/screenshots/sidepanel.jpg)
 
 3. Job Panel
+![alt text](https://raw.githubusercontent.com/ShreyasPrasad/Employmint/master/screenshots/jobsearch.jpg)
 
 Version 2.0 will have many great features that can help us transition into a more global business environment:
 
