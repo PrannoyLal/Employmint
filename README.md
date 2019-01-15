@@ -9,12 +9,15 @@ The application was developed using Android Studio, Java, XML, Firebase Database
 Screenshots of the device flow are shown below: 
 
 1. App Launch Screen
+
 ![alt text](https://raw.githubusercontent.com/ShreyasPrasad/Employmint/master/screenshots/applaunch.jpg)
 
 2. Sidebar View
+
 ![alt text](https://raw.githubusercontent.com/ShreyasPrasad/Employmint/master/screenshots/sidepanel.jpg)
 
 3. Job Panel
+
 ![alt text](https://raw.githubusercontent.com/ShreyasPrasad/Employmint/master/screenshots/jobsearch.jpg)
 
 Version 2.0 will have many great features that can help us transition into a more global business environment:
